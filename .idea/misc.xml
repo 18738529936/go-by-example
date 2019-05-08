@@ -7,9 +7,6 @@
       </map>
     </option>
   </component>
-  <component name="JUnitGeneratorProjectSettings">
-    <option name="selectedTemplateKey" value="JUnit 4" />
-  </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
